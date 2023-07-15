@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034214134390",
+    "project_id": "instantcar-f6356",
+    "storage_bucket": "instantcar-f6356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034214134390:android:3f622ae4301f7b9a6c0557",
+        "android_client_info": {
+          "package_name": "com.example.instant_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034214134390-t5mokofmbelukg3cehvmmlcvv972b7je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA51KGta_89tcHApG7b4pcDpilKpy7wKpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034214134390-t5mokofmbelukg3cehvmmlcvv972b7je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
